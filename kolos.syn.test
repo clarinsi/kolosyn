@@ -1,0 +1,1002 @@
+5	1	a	NOT FOUND OR AMBIGUOUS	6	on	Pp	0
+377	426	adaptabilen	NOT FOUND OR AMBIGUOUS	427	prilagodljiv	Ag	1
+2031	2	ampak	Cc	1	a	NOT FOUND OR AMBIGUOUS	1
+2901	3136	aplikacija	Nc	3138	uporaba	Nc	1
+4134	4371	atribut	Nc	4372	prilastek	Nc	1
+4174	850	avantura	Nc	4407	pustolovščina	Nc	1
+4377	4614	avto	Nc	4615	avtomobil	Nc	1
+4763	4973	babica	Nc	4972	babi	Nc	1
+4764	4973	babica	Nc	4974	dedek	Nc	0
+4765	4973	babica	Nc	4975	starka	Nc	1
+4767	4973	babica	Nc	4977	porodničarka	Nc	1
+4768	4973	babica	Nc	4978	staruha	Nc	0
+6228	6254	bel	Ag	6262	desničarski	Ag	1
+7260	7277	bistvo	Nc	7292	jedro	NOT FOUND OR AMBIGUOUS	1
+7261	7277	bistvo	Nc	7293	srž	Nc	1
+7266	7277	bistvo	Nc	7296	bit	NOT FOUND OR AMBIGUOUS	1
+7272	7277	bistvo	Nc	4533	sporočilo	Nc	1
+7317	7316	biti	NOT FOUND OR AMBIGUOUS	7334	tolči	Vm	1
+8010	6260	bled	Ag	7895	medel	Ag	1
+8018	6260	bled	Ag	7899	bledoličen	Ag	1
+8022	6260	bled	Ag	7900	bledičen	Ag	1
+8025	6260	bled	Ag	7903	nezdrav	Ag	1
+11361	3040	brezvoljnost	Nc	10362	malodušnost	Nc	1
+13645	11941	cigan	Nc	11942	cigo	NOT FOUND OR AMBIGUOUS	1
+13647	11941	cigan	Nc	11944	Rom	Np	1
+14886	11041	debel	Ag	12984	rejen	Ap	1
+14887	11041	debel	Ag	8514	obilen	Ag	1
+14888	11041	debel	Ag	12985	tolst	Ag	1
+14892	11041	debel	Ag	12989	sodčkast	NOT FOUND OR AMBIGUOUS	1
+14893	11041	debel	Ag	8543	zajeten	Ag	1
+14894	11041	debel	Ag	11387	obsežen	NOT FOUND OR AMBIGUOUS	1
+14898	11041	debel	Ag	11040	bunkast	NOT FOUND OR AMBIGUOUS	1
+14900	11041	debel	Ag	12994	zavaljen	Ap	1
+15111	4974	dedek	Nc	4973	babica	Nc	0
+15198	13174	definirati	Vm	13175	opredeliti	Vm	1
+15222	218	definitivno	Rg	216	nedvomno	Rg	1
+15535	945	dejavnik	Nc	13455	faktor	Nc	1
+15689	13570	deklica	Nc	13578	fantič	Nc	0
+15843	13725	delati	Vm	13728	početi	Vm	1
+16645	11990	depresija	Nc	14369	depra	NOT FOUND OR AMBIGUOUS	1
+18624	6578	divjati	Vm	7777	noreti	Vm	1
+18637	6578	divjati	Vm	6574	besneti	Vm	1
+18638	6578	divjati	Vm	15973	razsajati	Vm	1
+19062	12914	doba	Nc	12915	obdobje	Nc	1
+19250	3465	dobiti	Vm	16324	pokasirati	Vm	1
+19429	7564	dobro	NOT FOUND OR AMBIGUOUS	474	primerno	Rg	1
+19441	7564	dobro	NOT FOUND OR AMBIGUOUS	16474	no	Q	0
+19690	522	dodatek	Nc	2423	aneks	Nc	1
+20012	856	dogodek	Nc	16733	happening	NOT FOUND OR AMBIGUOUS	0
+21649	4674	domorodec	Nc	4672	staroselec	Nc	1
+22239	17925	doslednost	Nc	17930	konsistentnost	Nc	1
+22869	18210	doživeti	Vm	18211	prestati	Vm	1
+22874	18210	doživeti	Vm	18216	izkusiti	Vm	1
+23281	18439	drek	Nc	6044	sranje	Nc	1
+23282	18439	drek	Nc	18440	govno	Nc	1
+23284	18439	drek	Nc	18441	kakec	Nc	1
+25557	19839	ekipa	Nc	19840	moštvo	Nc	1
+26085	14754	eksplodirati	Vm	20210	popeniti	Vm	1
+26096	14742	eksplozija	Nc	14741	detonacija	Nc	1
+26193	20294	ekstaza	Nc	20296	zamaknjenje	Nc	1
+28545	20398	fanatik	Nc	869	navdušenec	Nc	1
+28546	20398	fanatik	Nc	21943	zagrizenec	Nc	1
+28548	20398	fanatik	Nc	21263	zanesenjak	Nc	1
+28549	20398	fanatik	Nc	3928	obsedenec	Nc	1
+28552	20398	fanatik	Nc	21945	gorečnež	Nc	1
+28553	20398	fanatik	Nc	21264	zagnanec	Nc	1
+28591	20405	fanatičen	Ag	8716	zagrizen	Ap	1
+28592	20405	fanatičen	Ag	8050	goreč	NOT FOUND OR AMBIGUOUS	1
+28613	14918	fant	Nc	14923	dečko	Nc	1
+28614	14918	fant	Nc	14924	poba	NOT FOUND OR AMBIGUOUS	1
+28615	14918	fant	Nc	13578	fantič	Nc	1
+28616	14918	fant	Nc	14925	pob	Nc	1
+28618	14918	fant	Nc	14926	frajer	Nc	1
+28620	14918	fant	Nc	14917	deček	Nc	1
+28621	14918	fant	Nc	21966	pobec	Nc	1
+28624	14918	fant	Nc	21967	fante	NOT FOUND OR AMBIGUOUS	1
+28626	14918	fant	Nc	21968	ljubimec	Nc	1
+28627	14918	fant	Nc	936	ljubček	Nc	1
+28629	14918	fant	Nc	13569	punca	Nc	0
+28630	14918	fant	Nc	21969	mladenič	Nc	1
+28635	14918	fant	Nc	21973	pobič	Nc	1
+29093	22267	fentati	Vm	22268	pospraviti	Vm	1
+29094	22267	fentati	Vm	22269	ubiti	Vm	1
+29095	22267	fentati	Vm	22270	pokončati	Vm	1
+29096	22267	fentati	Vm	20651	likvidirati	Vm	1
+31165	23705	gej	Nc	23707	homoseksualec	Nc	1
+31865	3245	glasnik	Nc	24172	znanilec	Nc	1
+32255	24414	globalen	Ag	24416	svetoven	Ag	1
+32679	4486	gnus	Nc	4485	stud	Nc	1
+34212	21929	govorica	Nc	24742	čenča	Nc	1
+34241	25471	govoriti	Vm	25473	praviti	Vm	1
+34242	25471	govoriti	Vm	21831	pripovedovati	Vm	1
+34248	25471	govoriti	Vm	25477	šušljati	Vm	1
+34262	6522	govoričiti	Vm	6524	čenčati	Vm	1
+34263	6522	govoričiti	Vm	6525	nakladati	Vm	1
+34264	6522	govoričiti	Vm	5978	blebetati	Vm	1
+34265	6522	govoričiti	Vm	6521	besedičiti	Vm	1
+34266	6522	govoričiti	Vm	6523	flancati	NOT FOUND OR AMBIGUOUS	1
+34267	6522	govoričiti	Vm	7858	nalagati	Vm	1
+34269	6522	govoričiti	Vm	7851	čvekati	Vm	1
+34299	18507	gozd	Nc	23415	hosta	Nc	1
+35630	26150	groziti	Vm	26151	pretiti	Vm	1
+36267	21174	harmonija	Nc	11475	ubranost	Nc	1
+37101	8100	hiter	Ag	8108	nagel	Ag	1
+37102	8100	hiter	Ag	8104	uren	Ag	1
+37106	8100	hiter	Ag	24078	takojšen	Ag	1
+37121	8100	hiter	Ag	20145	ekspeditiven	Ag	1
+37122	8100	hiter	Ag	20266	ekspresen	Ag	1
+37149	10852	hiteti	Vm	9620	brzeti	Vm	1
+37150	10852	hiteti	Vm	6220	drveti	Vm	1
+37151	10852	hiteti	Vm	6578	divjati	Vm	1
+37152	10852	hiteti	Vm	6695	dirjati	Vm	1
+37153	10852	hiteti	Vm	14969	leteti	Vm	1
+37185	10901	hitro	Rg	20149	urno	Rg	1
+37186	10901	hitro	Rg	20148	naglo	Rg	1
+37187	10901	hitro	Rg	10899	nemudoma	Rg	1
+37188	10901	hitro	Rg	10900	takoj	Rg	1
+37189	10901	hitro	Rg	10898	brž	Rg	1
+37194	10901	hitro	Rg	10879	ekspresno	Rg	1
+37195	10901	hitro	Rg	8113	bliskovito	Rg	1
+37246	7410	hiša	Nc	18929	rodbina	Nc	0
+37248	7410	hiša	Nc	8250	stavba	Nc	1
+37255	7410	hiša	Nc	27137	nepremičnine	NOT FOUND OR AMBIGUOUS	1
+37256	7410	hiša	Nc	5432	družba	Nc	0
+37258	7410	hiša	Nc	7399	bivališče	Nc	1
+37259	7410	hiša	Nc	7400	domovanje	Nc	1
+37260	7410	hiša	Nc	7402	dom	Nc	1
+37636	27282	hliniti	Vm	27284	simulirati	Vm	1
+37638	27282	hliniti	Vm	7976	igrati	Vm	1
+38054	23671	hrana	Nc	27565	prehrana	Nc	1
+38055	23671	hrana	Nc	27566	živila	NOT FOUND OR AMBIGUOUS	1
+38056	23671	hrana	Nc	27567	jedila	NOT FOUND OR AMBIGUOUS	1
+38058	23671	hrana	Nc	27569	papica	Nc	1
+38063	23671	hrana	Nc	27572	jedača	Nc	1
+38065	23671	hrana	Nc	27574	živež	Nc	1
+38104	27595	hranilnik	Nc	27596	prašiček	Nc	1
+38394	27721	hruljenje	Nc	27722	napizdevanje	NOT FOUND OR AMBIGUOUS	1
+38430	11243	hrup	Nc	23452	galama	NOT FOUND OR AMBIGUOUS	1
+38442	11059	hrupen	Ag	11247	glasen	Ag	1
+38686	6275	hudič	Nc	27772	vrag	Nc	1
+38688	6275	hudič	Nc	27781	zlodej	Nc	1
+38691	6275	hudič	Nc	14134	peklenšček	Nc	1
+38692	6275	hudič	Nc	14133	demon	Nc	1
+38693	6275	hudič	Nc	6276	satan	Nc	1
+38694	6275	hudič	Nc	6274	belcebub	NOT FOUND OR AMBIGUOUS	1
+38696	6275	hudič	Nc	27783	skušnjavec	Nc	1
+38816	9668	hudoben	Ag	9667	zloben	Ag	1
+38818	9668	hudoben	Ag	27818	zel	NOT FOUND OR AMBIGUOUS	1
+38821	9668	hudoben	Ag	26134	zlohoten	Ag	1
+39273	17504	ideja	Nc	17503	zamisel	Nc	1
+39274	17504	ideja	Nc	28038	misel	Nc	1
+39279	17504	ideja	Nc	14687	odkritje	Nc	1
+39282	17504	ideja	Nc	6486	pojem	Nc	1
+39283	17504	ideja	Nc	28041	koncept	Nc	1
+39549	7976	igrati	Vm	27282	hliniti	Vm	1
+40608	28787	informacija	Nc	28789	podatek	Nc	1
+40979	266	integracija	Nc	267	vključitev	Nc	1
+40985	266	integracija	Nc	29079	vključevanje	Nc	1
+41485	29429	inventar	Nc	29431	popis	Nc	1
+41486	29429	inventar	Nc	21751	seznam	Nc	1
+41748	10686	iskati	Vm	6673	brskati	Vm	1
+41749	10686	iskati	Vm	10687	stikati	Vm	1
+41827	15555	iskreno	Rg	24452	odkritosrčno	Rg	1
+43054	29723	izginiti	Vm	30125	izpuhteti	Vm	1
+43055	29723	izginiti	Vm	29703	poiti	Vm	1
+43058	29723	izginiti	Vm	30127	splahneti	Vm	1
+43059	29723	izginiti	Vm	30128	skopneti	Vm	1
+43883	30442	izkoreniniti	Vm	21680	iztrebiti	Vm	1
+44331	13255	izmaličiti	Vm	13249	iznakaziti	Vm	1
+44482	3201	izmišljen	Ap	17558	namišljen	Ap	1
+44483	3201	izmišljen	Ap	17592	fiktiven	Ag	1
+44484	3201	izmišljen	Ap	21589	imaginaren	Ag	1
+44485	3201	izmišljen	Ap	22006	neresničen	Ag	1
+44588	12391	izmučen	Ap	30694	zgaran	Ap	1
+46361	31282	izražati	Vm	31283	odražati	Vm	1
+48725	9966	jalov	Ag	9118	nerodoviten	Ag	1
+48726	9966	jalov	Ag	9117	neploden	Ag	1
+48765	10014	jama	Nc	32041	votlina	Nc	1
+48766	10014	jama	Nc	3437	luknja	Nc	1
+48767	10014	jama	Nc	32042	kaverna	Nc	1
+48768	10014	jama	Nc	24423	kotanja	Nc	1
+48769	10014	jama	Nc	1871	vdolbina	Nc	1
+48771	10014	jama	Nc	32043	rudnik	Nc	1
+48772	10014	jama	Nc	32044	premogovnik	Nc	1
+48773	10014	jama	Nc	10012	brezno	Nc	1
+49371	7292	jedro	NOT FOUND OR AMBIGUOUS	7294	srčika	Nc	1
+49372	7292	jedro	NOT FOUND OR AMBIGUOUS	12419	srce	Nc	1
+49385	7292	jedro	NOT FOUND OR AMBIGUOUS	32265	nukleus	NOT FOUND OR AMBIGUOUS	1
+49853	12259	jok	Nc	12257	cmerjenje	Nc	1
+49878	12555	jokati	Vm	12553	tarnati	Vm	1
+49879	12555	jokati	Vm	12554	tožiti	Vm	1
+49880	12555	jokati	Vm	27305	ihteti	Vm	1
+49881	12555	jokati	Vm	27304	hlipati	Vm	1
+49897	12252	jokav	Ag	12251	cmerav	Ag	1
+50072	32615	jur	Nc	32616	tisočak	Nc	1
+50558	32939	kamela	Nc	32940	velblod	Nc	1
+52582	7513	kič	Nc	6056	šund	Nc	1
+52904	20982	klen	NOT FOUND OR AMBIGUOUS	13001	čvrst	Ag	1
+54349	34949	kokoš	Nc	34950	kura	Nc	1
+54637	6795	kolo	Nc	6794	bicikel	Nc	1
+54643	6795	kolo	Nc	35070	kolesarstvo	Nc	0
+54644	6795	kolo	Nc	35073	kolesce	Nc	1
+54825	35230	komaj	Rg	32273	komajda	Rg	1
+54829	35230	komaj	Rg	2223	samo	Q	1
+54830	35230	komaj	Rg	30417	le	Q	1
+55481	35592	koncentracija	Nc	27211	zbranost	Nc	1
+55501	28041	koncept	Nc	6486	pojem	Nc	1
+55502	28041	koncept	Nc	12022	načrt	Nc	1
+55503	28041	koncept	Nc	15061	skica	Nc	1
+55505	28041	koncept	Nc	14525	zasnova	Nc	1
+55506	28041	koncept	Nc	17503	zamisel	Nc	1
+55507	28041	koncept	Nc	17504	ideja	Nc	1
+55874	8414	konica	Nc	8413	ost	Nc	1
+55875	8414	konica	Nc	8415	špica	Nc	1
+57287	27266	koprneti	Vm	27264	hlepeti	Vm	1
+58219	13872	kočljiv	Ag	13871	delikaten	Ag	1
+58622	9236	krasen	Ag	5125	čudovit	Ag	1
+58624	9236	krasen	Ag	8028	sijajen	Ag	1
+58818	10912	krava	Nc	27997	ica	NOT FOUND OR AMBIGUOUS	1
+58962	9036	kredibilnost	Nc	9037	verodostojnost	Nc	1
+59081	37266	kreniti	Vm	11219	odriniti	Vm	1
+60051	8887	križ	Nc	1039	trpljenje	Nc	1
+60379	37757	krompir	Nc	24735	rilec	Nc	0
+61347	11290	kurba	Nc	11289	cipa	Nc	1
+61353	11290	kurba	Nc	5959	kreten	Nc	0
+61559	16278	kvaliteten	Ag	16277	dober	Ag	1
+61565	16278	kvaliteten	Ag	32810	profesionalen	Ag	0
+61819	10210	lagoden	Ag	9690	ležeren	Ag	1
+62189	25565	lakomnost	Nc	3112	pohlep	Nc	1
+62190	25565	lakomnost	Nc	25566	pogoltnost	Nc	1
+62191	25565	lakomnost	Nc	38510	požrešnost	Nc	1
+62192	25565	lakomnost	Nc	3111	sla	Nc	1
+62193	25565	lakomnost	Nc	25563	grabežljivost	Nc	1
+62195	25565	lakomnost	Nc	38512	nenasitnost	Nc	1
+62196	25565	lakomnost	Nc	25564	pohlepnost	Nc	1
+62198	25565	lakomnost	Nc	3114	strast	Nc	1
+62200	25565	lakomnost	Nc	27260	hlepenje	Nc	1
+62558	38695	lačen	Ag	24085	sestradan	Ap	1
+62563	24950	laž	Nc	38697	neresnica	Nc	1
+62893	38818	leksikografinja	NOT FOUND OR AMBIGUOUS	38819	slovaropiska	NOT FOUND OR AMBIGUOUS	1
+62939	22711	lenariti	Vm	30853	zabušavati	Vm	1
+63032	9781	lenuh	Nc	3065	lenoba	Nc	1
+63068	8547	lep	Ag	8548	čeden	Ag	1
+63070	8547	lep	Ag	10968	ličen	Ag	1
+63076	8547	lep	Ag	9236	krasen	Ag	1
+63077	8547	lep	Ag	10422	brhek	Ag	1
+63078	8547	lep	Ag	5125	čudovit	Ag	1
+63079	8547	lep	Ag	10424	zal	Ag	1
+63081	8547	lep	Ag	10423	postaven	Ag	1
+63082	8547	lep	Ag	21553	estetski	Ag	1
+64523	18240	ljubezen	Nc	884	naklonjenost	Nc	1
+65960	28013	luč	Nc	5216	svetilka	Nc	1
+66700	33192	malo	Rg	6739	nekoliko	Rg	1
+66701	33192	malo	Rg	6738	malce	Rg	1
+66705	33192	malo	Rg	19294	nekaj	NOT FOUND OR AMBIGUOUS	1
+66713	33192	malo	Rg	10493	kanček	Nc	1
+66718	33192	malo	Rg	40327	zanemarljivo	Rg	1
+66939	40391	mama	Nc	40392	mami	Nc	1
+66940	40391	mama	Nc	40393	mamica	Nc	1
+66941	40391	mama	Nc	40394	mati	Nc	1
+66960	40404	mamiti	Vm	40405	vabiti	Vm	1
+67595	40394	mati	Nc	4217	oče	Nc	0
+67597	40394	mati	Nc	40391	mama	Nc	1
+67736	4958	mačka	Nc	40834	muca	Nc	1
+67742	4958	mačka	Nc	628	lepotec	Nc	0
+70316	9881	miren	Ag	41992	spokojen	Ag	1
+70503	28038	misel	Nc	17504	ideja	Nc	1
+70505	28038	misel	Nc	3102	aperçu	NOT FOUND OR AMBIGUOUS	0
+70561	17575	misliti	Vm	30338	meniti	Vm	1
+71242	42307	mobitel	Nc	42305	mobilnik	Nc	1
+71322	7162	moder	Ag	4734	pameten	Ag	1
+71323	7162	moder	Ag	7157	preudaren	Ag	1
+71324	7162	moder	Ag	7156	razumen	Ag	1
+71328	7162	moder	Ag	4925	sinji	Ag	1
+71329	7162	moder	Ag	4923	azuren	Ag	1
+71330	7162	moder	Ag	24458	globokoumen	Ag	1
+71333	7162	moder	Ag	16289	premišljen	Ap	1
+71334	7162	moder	Ag	7141	bister	Ag	1
+71335	7162	moder	Ag	7155	razsoden	Ag	1
+71337	7162	moder	Ag	1213	učen	NOT FOUND OR AMBIGUOUS	1
+73458	7863	mrmrati	Vm	7864	momljati	Vm	1
+73564	42980	mrziti	Vm	42981	črtiti	Vm	1
+73565	42980	mrziti	Vm	42982	sovražiti	Vm	1
+73566	42980	mrziti	Vm	28105	prezirati	Vm	1
+73577	7932	mrzlica	Nc	42988	vročica	Nc	1
+73896	43083	multinacionalka	Nc	43084	večnacionalka	NOT FOUND OR AMBIGUOUS	1
+74037	8845	mučiti	Vm	31198	trpinčiti	Vm	1
+74038	8845	mučiti	Vm	43156	pestiti	Vm	1
+74043	8845	mučiti	Vm	40380	maltretirati	Vm	1
+74046	8845	mučiti	Vm	24640	moriti	Vm	1
+74050	8845	mučiti	Vm	8842	žreti	Vm	1
+74679	7216	nadarjenost	Nc	7222	talent	Nc	1
+74680	7216	nadarjenost	Nc	7223	dar	Nc	1
+75688	20151	naglica	Nc	27114	hitrica	Nc	1
+76105	43823	nahraniti	Vm	43824	nakrmiti	Vm	1
+76115	43568	nahruliti	Vm	43567	nadreti	Vm	1
+76116	43568	nahruliti	Vm	43569	nazijati	Vm	1
+76117	43568	nahruliti	Vm	43570	natuliti	NOT FOUND OR AMBIGUOUS	1
+76121	43568	nahruliti	Vm	43832	napizditi	Vm	1
+76514	7262	najpomembnejši	NOT FOUND OR AMBIGUOUS	7258	poglaviten	Ag	1
+77811	44294	namreč	Cc	44296	scilicet	NOT FOUND OR AMBIGUOUS	0
+78657	43668	naplahtati	Vm	43666	nafarbati	Vm	1
+78661	43668	naplahtati	Vm	19364	potegniti	Vm	1
+79256	7299	narava	Nc	7304	značaj	Nc	1
+79257	7299	narava	Nc	36844	temperament	Nc	1
+79259	7299	narava	Nc	36843	natura	Nc	1
+79264	7299	narava	Nc	44739	priroda	Nc	1
+80815	45110	nastradati	Vm	45109	nasrkati	Vm	1
+80896	12254	nataknjen	Ap	14388	zlovoljen	Ag	1
+81092	44921	natepsti	Vm	43227	naklestiti	Vm	1
+82149	45481	navzočnost	Nc	45482	pričujočnost	NOT FOUND OR AMBIGUOUS	1
+82150	45481	navzočnost	Nc	45483	prezenca	Nc	1
+82151	45481	navzočnost	Nc	45484	udeležba	Nc	1
+82339	43569	nazijati	Vm	43568	nahruliti	Vm	1
+82340	43569	nazijati	Vm	43567	nadreti	Vm	1
+82341	43569	nazijati	Vm	43570	natuliti	NOT FOUND OR AMBIGUOUS	1
+82343	43569	nazijati	Vm	43832	napizditi	Vm	1
+83915	46045	neekonomičnost	Nc	46046	negospodarnost	Nc	1
+86127	46678	nemirnež	Nc	40820	vrtavka	Nc	1
+86828	20873	nenehno	Rg	46777	nenehoma	Rg	1
+88127	15956	neotesanec	Nc	15955	robavs	Nc	1
+89882	9717	nepremišljeno	Rg	9819	brezglavo	Rg	1
+93308	34255	nestanovitnež	Nc	47648	vetrnjak	Nc	1
+93552	47684	netiti	Vm	47685	podpihovati	Vm	1
+93553	47684	netiti	Vm	47686	razpihovati	Vm	1
+93554	47684	netiti	Vm	43769	podžigati	Vm	1
+93905	350	neumen	Ag	352	trapast	Ag	1
+93906	350	neumen	Ag	351	bedast	Ag	1
+93907	350	neumen	Ag	5939	butast	Ag	1
+93908	350	neumen	Ag	5948	zabit	Ap	1
+93911	350	neumen	Ag	5936	nespameten	Ag	1
+93912	350	neumen	Ag	5940	nor	Ag	1
+93915	350	neumen	Ag	6060	prismojen	Ag	1
+93917	350	neumen	Ag	5934	bebav	Ag	1
+93918	350	neumen	Ag	5941	trčen	Ap	1
+93919	350	neumen	Ag	6064	kretenski	Ag	1
+93920	350	neumen	Ag	5935	slaboumen	Ag	1
+93924	350	neumen	Ag	9869	top	NOT FOUND OR AMBIGUOUS	1
+93926	350	neumen	Ag	10050	trdoglav	NOT FOUND OR AMBIGUOUS	1
+93929	350	neumen	Ag	38843	počasen	Ag	1
+93930	350	neumen	Ag	9769	brezumen	Ag	1
+93931	350	neumen	Ag	47736	topoglav	Ag	1
+93933	350	neumen	Ag	10980	tumpast	Ag	1
+93935	350	neumen	Ag	46278	neinteligenten	Ag	1
+95088	44113	nevihta	Nc	47772	neurje	Nc	1
+95089	44113	nevihta	Nc	41566	naliv	Nc	1
+96998	48100	nikoli	Rg	48099	nikdar	Rg	1
+97315	5563	ničvrednež	Nc	9782	pridanič	Nc	1
+97316	5563	ničvrednež	Nc	5557	malopridnež	Nc	1
+98597	28411	nujnost	Nc	47103	nepogrešljivost	Nc	1
+100183	16050	oblikovati	Vm	16054	zasnovati	Vm	1
+100187	16050	oblikovati	Vm	22963	formirati	Vm	1
+100689	13398	oboževati	Vm	13397	deificirati	NOT FOUND OR AMBIGUOUS	1
+100692	13398	oboževati	Vm	40318	malikovati	Vm	1
+102991	11576	ocena	Nc	11579	presoja	Nc	1
+102995	11576	ocena	Nc	11577	ocenitev	Nc	1
+103828	27339	oditi	Vm	11219	odriniti	Vm	1
+103830	27339	oditi	Vm	37267	odpotovati	Vm	1
+103846	27339	oditi	Vm	30078	preminiti	Vm	1
+103847	27339	oditi	Vm	12381	umreti	Vm	1
+104044	10244	odkrit	Ag	15535	iskren	Ag	1
+104656	7253	odločilen	Ag	12711	prelomen	Ag	1
+105358	50174	odpadki	NOT FOUND OR AMBIGUOUS	50175	smeti	Vm	1
+107206	726	odvetnik	Nc	727	zagovornik	Nc	1
+108095	6556	ogorčen	Ap	6561	silovit	Ag	1
+108965	51014	okolišiti	Vm	51015	ovinkariti	Vm	1
+109214	13678	okrasiti	Vm	13679	ozaljšati	Vm	1
+109215	13678	okrasiti	Vm	13680	olepšati	Vm	1
+109216	13678	okrasiti	Vm	50958	okititi	Vm	1
+109392	23965	okreten	Ag	20499	gibčen	Ag	1
+109852	13132	okvara	Nc	13131	defekt	Nc	1
+110260	35004	omahovati	Vm	35005	oklevati	Vm	1
+110262	35004	omahovati	Vm	35003	kolebati	Vm	1
+113545	6021	osel	Nc	52103	osliček	Nc	1
+115673	13579	otrok	Nc	13570	deklica	Nc	1
+115941	51015	ovinkariti	Vm	51014	okolišiti	Vm	1
+115943	51015	ovinkariti	Vm	52568	slepomišiti	Vm	1
+116604	44340	očala	Nc	52685	špegli	NOT FOUND OR AMBIGUOUS	1
+116608	22103	očaran	Ap	20289	prevzet	Ap	1
+116746	4217	oče	Nc	40394	mati	Nc	0
+116752	4217	oče	Nc	4214	ata	Nc	1
+116755	4217	oče	Nc	19137	duhovnik	Nc	1
+116800	11710	očistiti	Vm	52489	otrebiti	Vm	1
+116801	11710	očistiti	Vm	52706	očediti	Vm	1
+116849	17311	očitati	Vm	27289	oponašati	Vm	1
+116926	10251	očitno	Rg	21765	evidentno	Rg	1
+118789	11764	pasti	Vm	30153	upasti	Vm	1
+118806	11764	pasti	Vm	11763	pogrniti	Vm	1
+119303	4960	peder	Nc	11236	homič	NOT FOUND OR AMBIGUOUS	1
+119304	4960	peder	Nc	11235	toplovodar	Nc	1
+119310	4960	peder	Nc	4963	mevža	Nc	0
+119311	4960	peder	Nc	4964	reva	Nc	0
+119312	4960	peder	Nc	4966	šleva	Nc	0
+120028	12404	pes	Nc	28068	klinec	NOT FOUND OR AMBIGUOUS	0
+120029	12404	pes	Nc	34506	pesjan	Nc	1
+120030	12404	pes	Nc	38230	psiček	Nc	1
+120031	12404	pes	Nc	12401	cucek	Nc	1
+120032	12404	pes	Nc	12402	ščene	Nc	1
+120048	24114	pesem	Nc	35501	skladba	Nc	1
+120589	5207	pijan	Ag	43338	nadelan	Ap	1
+120590	5207	pijan	Ag	43339	nasekan	Ap	1
+120591	5207	pijan	Ag	43187	nažgan	Ap	1
+120592	5207	pijan	Ag	43337	nalit	Ap	1
+120594	5207	pijan	Ag	43415	zadet	Ap	1
+120597	5207	pijan	Ag	43188	pribit	Ap	1
+120601	5207	pijan	Ag	4070	trd	Ag	1
+120602	5207	pijan	Ag	44084	nakresan	NOT FOUND OR AMBIGUOUS	1
+120603	5207	pijan	Ag	48000	opit	Ap	1
+120606	5207	pijan	Ag	48001	vinjen	Ag	1
+120607	5207	pijan	Ag	45685	nažehtan	NOT FOUND OR AMBIGUOUS	1
+120790	32210	piker	Ag	27752	strupen	Ag	1
+121431	22721	piščal	Nc	54288	piščalka	Nc	1
+121581	8001	plamen	Nc	10495	zubelj	Nc	1
+121968	12849	plačati	Vm	30951	odšteti	Vm	1
+122636	13971	plod	Nc	13972	sad	Nc	1
+126376	4418	pogumen	Ag	18965	hraber	Ag	1
+126380	4418	pogumen	Ag	27550	srčen	Ag	1
+126382	4418	pogumen	Ag	20984	korajžen	NOT FOUND OR AMBIGUOUS	1
+126383	4418	pogumen	Ag	18964	smel	Ag	1
+127112	25052	pojesti	Vm	22268	pospraviti	Vm	1
+127113	25052	pojesti	Vm	31074	zaužiti	Vm	1
+127115	25052	pojesti	Vm	25055	zmazati	Vm	1
+127127	25052	pojesti	Vm	27255	pogoltniti	Vm	1
+127762	52598	pokrov	Nc	26488	havba	Nc	1
+128149	44551	pol	NOT FOUND OR AMBIGUOUS	36803	tečaj	Nc	1
+128417	42286	poligamija	Nc	42285	mnogoženstvo	Nc	1
+129341	3836	pomemben	Ag	7255	relevanten	Ag	1
+129378	3836	pomemben	Ag	16295	tehten	Ag	1
+129405	56173	pomembno	Rg	17538	važno	Rg	1
+129406	56173	pomembno	Rg	4836	vplivno	Rg	1
+129512	56195	pomenoslovka	NOT FOUND OR AMBIGUOUS	56191	pomenoslovec	Nc	1
+131233	214	popolnoma	Rg	215	čisto	Rg	1
+131551	1586	popularen	Ag	9324	priljubljen	Ag	1
+133013	24344	poskrbeti	Vm	8935	gledati	Vm	0
+134864	1750	pot	Nc	1749	steza	Nc	1
+135709	57404	potratnež	Nc	57405	razsipnež	Nc	1
+135710	57404	potratnež	Nc	57406	zapravljivec	Nc	1
+135857	48526	potrebno	Rg	27813	nujno	Rg	1
+136366	13925	povedati	Vm	4537	sporočiti	Vm	1
+136370	13925	povedati	Vm	28309	reči	Vm	1
+136389	13925	povedati	Vm	3874	ubesediti	Vm	1
+137825	10214	pozitiven	Ag	10213	optimističen	Ag	1
+140373	17474	prebrisan	Ag	7160	zvit	Ap	1
+140374	17474	prebrisan	Ag	7159	premeten	Ag	1
+140376	17474	prebrisan	Ag	17475	pretkan	Ag	1
+140377	17474	prebrisan	Ag	17477	prefrigan	Ag	1
+140379	17474	prebrisan	Ag	30533	prekanjen	Ap	1
+140396	24937	prebrisanec	Nc	58212	premetenec	Nc	1
+140397	24937	prebrisanec	Nc	58213	pretkanec	Nc	1
+140398	24937	prebrisanec	Nc	24981	lisica	Nc	1
+140399	24937	prebrisanec	Nc	24930	lisjak	Nc	1
+144180	44445	prelisičiti	Vm	57300	ukaniti	Vm	1
+144352	44812	preluknjati	Vm	31692	prebosti	Vm	1
+144355	44812	preluknjati	Vm	59114	prerešetati	Vm	1
+144362	44812	preluknjati	Vm	53699	perforirati	Vm	1
+144987	15794	premišljevati	Vm	15793	razglabljati	Vm	1
+144988	15794	premišljevati	Vm	42826	premlevati	Vm	1
+144990	15794	premišljevati	Vm	59196	preudarjati	Vm	1
+144991	15794	premišljevati	Vm	42825	tuhtati	Vm	1
+145895	29444	preobrat	Nc	49248	preokret	Nc	1
+145898	29444	preobrat	Nc	13225	zasuk	Nc	1
+146165	7374	prepir	Nc	37226	zdraha	Nc	1
+146304	43735	preplaviti	Vm	43726	zajeti	Vm	1
+146305	43735	preplaviti	Vm	246	prevzeti	Vm	1
+146306	43735	preplaviti	Vm	44564	prežeti	Vm	1
+147514	59605	presek	Nc	29879	prerez	Nc	1
+147647	17897	preseči	Vm	29853	prekositi	Vm	1
+147651	17897	preseči	Vm	43461	nadkriliti	Vm	1
+148131	49844	prestrašiti	Vm	59457	preplašiti	Vm	1
+148471	37340	pretepsti	Vm	37337	premlatiti	Vm	1
+148473	37340	pretepsti	Vm	22276	prebutati	Vm	1
+148697	26151	pretiti	Vm	26150	groziti	Vm	1
+149371	30018	prevarati	Vm	44534	ogoljufati	Vm	1
+149372	30018	prevarati	Vm	45233	oslepariti	Vm	1
+149373	30018	prevarati	Vm	43669	pretentati	Vm	1
+149374	30018	prevarati	Vm	44445	prelisičiti	Vm	1
+149376	30018	prevarati	Vm	44533	opehariti	Vm	1
+150223	28105	prezirati	Vm	28106	zaničevati	Vm	1
+150226	28105	prezirati	Vm	42981	črtiti	Vm	1
+150714	52135	preživljati	Vm	28342	vzdrževati	Vm	1
+153160	16238	prinašalec	Nc	16229	dostavljavec	Nc	1
+157902	3088	prositi	Vm	42469	rotiti	Vm	1
+157903	3088	prositi	Vm	34407	moledovati	Vm	1
+157904	3088	prositi	Vm	6438	prosjačiti	Vm	1
+157905	3088	prositi	Vm	6439	žicati	Vm	1
+157906	3088	prositi	Vm	6437	beračiti	Vm	1
+157907	3088	prositi	Vm	22214	fehtati	Vm	1
+157943	48695	proslaviti	Vm	48696	praznovati	Vm	1
+158904	7213	prozornost	Nc	58719	transparentnost	Nc	1
+158905	7213	prozornost	Nc	58718	prosojnost	Nc	1
+158906	7213	prozornost	Nc	9657	brezbarvnost	Nc	1
+158908	7213	prozornost	Nc	7954	šibkost	Nc	0
+159500	7703	psovka	Nc	7704	žaljivka	Nc	1
+160377	7612	radodaren	Ag	6393	velikodušen	Ag	1
+162261	14613	razdiralen	Ag	14642	destruktiven	Ag	1
+162262	14613	razdiralen	Ag	14643	uničevalen	Ag	1
+162746	13561	razglasiti	Vm	12856	objaviti	Vm	1
+162996	20483	razgrniti	Vm	31473	razprostreti	Vm	1
+162998	20483	razgrniti	Vm	30006	razkriti	Vm	1
+163279	31830	razjeziti	Vm	61823	razbesniti	Vm	1
+164499	16263	raznesti	Vm	15360	razširiti	Vm	1
+166019	7217	razsodnost	Nc	7220	treznost	Nc	1
+166664	12120	razuzdanka	Nc	38462	razvratnica	Nc	1
+166665	12120	razuzdanka	Nc	31136	razbrzdanka	NOT FOUND OR AMBIGUOUS	1
+167820	37918	rdeč	NOT FOUND OR AMBIGUOUS	37927	zardel	Ap	1
+168251	27182	redkobeseden	Ag	42510	nezgovoren	NOT FOUND OR AMBIGUOUS	1
+169604	1648	resnost	Nc	1591	pomembnost	Nc	1
+169888	49655	revizija	Nc	2308	pregled	Nc	1
+170086	10399	rezek	Ag	165	oster	Ag	1
+170087	10399	rezek	Ag	10395	jedek	Ag	1
+170090	10399	rezek	Ag	50734	predirljiv	Ag	1
+170118	1932	rezerva	Nc	3906	zaloga	Nc	1
+170361	17901	rezultat	Nc	13113	posledica	Nc	1
+170362	17901	rezultat	Nc	30313	izid	Nc	1
+171822	12479	roža	Nc	12478	cvet	Nc	1
+171823	12479	roža	Nc	12502	cvetlica	Nc	1
+172196	13972	sad	Nc	13971	plod	Nc	1
+172197	13972	sad	Nc	54668	sadež	Nc	1
+172455	2223	samo	Q	30417	le	Q	1
+172456	2223	samo	Q	9119	zgolj	Q	1
+172465	2223	samo	Q	2	ampak	Cc	1
+173756	13705	segment	Nc	13694	del	Nc	1
+175674	24564	siliti	Vm	8471	gnati	Vm	1
+176012	29672	sinhronost	Nc	27171	sočasnost	Nc	1
+176013	29672	sinhronost	Nc	27172	istočasnost	Nc	1
+176016	29672	sinhronost	Nc	1363	usklajenost	Nc	1
+176237	43189	sit	Ag	31872	naveličan	Ap	1
+176238	43189	sit	Ag	43184	nabasan	Ap	1
+176245	43189	sit	Ag	45694	nažrt	Ap	1
+176380	20905	situacija	Nc	4915	položaj	Nc	1
+176388	20905	situacija	Nc	13425	okoliščine	NOT FOUND OR AMBIGUOUS	1
+178508	27161	skupaj	Rg	18942	kolektivno	Rg	1
+178585	2666	skupina	Nc	4106	garnitura	Nc	1
+178873	27025	slabeti	Vm	27024	hirati	Vm	1
+178874	27025	slabeti	Vm	27026	pešati	Vm	1
+178918	6165	slabo	Rg	6099	zanič	NOT FOUND OR AMBIGUOUS	1
+179682	8230	slepilo	Nc	22070	fasada	Nc	1
+179683	8230	slepilo	Nc	22071	krinka	Nc	1
+179903	6530	slovar	Nc	6529	besednjak	Nc	1
+180384	12021	smisel	Nc	36643	pomen	Nc	1
+180430	60272	smotrno	Rg	474	primerno	Rg	1
+180444	16073	smrdeti	Vm	65170	zaudarjati	Vm	1
+180454	24682	smrdljiv	Ag	57132	usmrajen	Ap	1
+180973	9406	sodelavec	Nc	9405	kolega	Nc	1
+181001	35985	sodelovanje	Nc	36381	kooperacija	Nc	1
+182289	42982	sovražiti	Vm	42981	črtiti	Vm	1
+182595	57866	spati	Vm	7324	počivati	Vm	1
+185024	59443	spreleteti	Vm	48798	prešiniti	Vm	1
+185427	7227	spretnost	Nc	31597	ročnost	Nc	1
+185428	7227	spretnost	Nc	31595	izurjenost	Nc	1
+185439	7227	spretnost	Nc	23400	pripravnost	Nc	1
+186270	12419	srce	Nc	7292	jedro	NOT FOUND OR AMBIGUOUS	1
+188690	63947	stol	Nc	5897	sedež	Nc	1
+188952	2545	strah	Nc	8662	bojazen	Nc	1
+188956	2545	strah	Nc	5876	bavbav	Nc	1
+189005	8667	strahopeten	Ag	8666	bojazljiv	Ag	1
+189152	23090	stran	NOT FOUND OR AMBIGUOUS	49783	proč	Rg	1
+189154	23090	stran	NOT FOUND OR AMBIGUOUS	4114	plat	Nc	1
+189155	23090	stran	NOT FOUND OR AMBIGUOUS	4111	vidik	Nc	1
+189755	60670	stres	Nc	9580	pritisk	Nc	1
+190146	1025	strniti	Vm	30588	sežeti	Vm	1
+190153	1025	strniti	Vm	35522	zgostiti	Vm	1
+190163	1025	strniti	Vm	31512	stisniti	Vm	1
+191592	5625	surov	Ag	46578	presen	Ag	1
+191923	7814	svet	NOT FOUND OR AMBIGUOUS	17423	teren	Nc	1
+191928	7814	svet	NOT FOUND OR AMBIGUOUS	12313	zemljišče	Nc	1
+191936	7814	svet	NOT FOUND OR AMBIGUOUS	7742	zemlja	Nc	1
+192476	66842	svitanje	Nc	4573	zora	Nc	1
+192477	66842	svitanje	Nc	66841	svit	Nc	1
+192907	10900	takoj	Rg	10899	nemudoma	Rg	1
+193294	36507	tančica	Nc	36506	koprena	Nc	1
+196031	5858	tič	Nc	5848	batina	Nc	1
+196096	52881	tlak	Nc	9580	pritisk	Nc	1
+196402	5359	tolažba	Nc	5361	blažilo	Nc	1
+197625	36253	transformacija	Nc	36252	preobrazba	Nc	1
+197626	36253	transformacija	Nc	29860	preoblikovanje	Nc	1
+197628	36253	transformacija	Nc	42355	predrugačenje	Nc	1
+198022	17704	trava	Nc	23514	marihuana	Nc	1
+198030	17704	trava	Nc	403	heroin	Nc	0
+198564	17103	trdoživ	NOT FOUND OR AMBIGUOUS	23966	žilav	Ag	1
+198579	28	trebuh	Nc	65381	vamp	Nc	1
+198583	28	trebuh	Nc	26	abdomen	Nc	1
+199104	7481	trgovina	Nc	15896	prodajalna	Nc	1
+199520	10051	trmast	Ag	34539	trmoglav	Ag	1
+200725	50842	tvegati	Vm	62412	riskirati	Vm	1
+201786	4849	ugled	Nc	24112	renome	Nc	1
+202355	57300	ukaniti	Vm	44537	preslepiti	Vm	1
+202564	30590	ukrasti	Vm	8797	suniti	Vm	1
+202565	30590	ukrasti	Vm	30589	izmakniti	Vm	1
+202566	30590	ukrasti	Vm	30593	speljati	Vm	1
+203505	12381	umreti	Vm	12383	izdihniti	Vm	1
+203507	12381	umreti	Vm	11767	škripniti	Vm	1
+203508	12381	umreti	Vm	12377	crkniti	Vm	1
+203509	12381	umreti	Vm	12382	krepniti	Vm	1
+203513	12381	umreti	Vm	30080	poginiti	Vm	1
+203598	19693	unikaten	Ag	19691	edini	NOT FOUND OR AMBIGUOUS	1
+203601	19693	unikaten	Ag	10191	edinstven	Ag	1
+204370	1539	uporabiti	Vm	20206	izkoristiti	Vm	1
+206142	12492	uspevati	Vm	12489	cveteti	Vm	1
+206144	12492	uspevati	Vm	12491	prosperirati	Vm	1
+206554	31442	ustreliti	Vm	8801	počiti	Vm	1
+206557	31442	ustreliti	Vm	30528	pokositi	Vm	1
+207158	9361	utrditi	Vm	35925	učvrstiti	Vm	1
+209399	33231	vedeti	Vm	16842	kapirati	Vm	0
+209418	10163	vedno	Rg	66100	vselej	Rg	1
+209771	12678	veliko	Rg	7275	precej	Rg	1
+209776	12678	veliko	Rg	8576	ogromno	Rg	1
+209875	15398	velikost	Nc	22949	veličina	Nc	1
+209886	8042	veličasten	Ag	4827	mogočen	Ag	1
+210408	16288	vesel	Ag	8389	veder	Ag	1
+210426	16288	vesel	Ag	7809	radosten	Ag	1
+210438	16288	vesel	Ag	27823	škodoželjen	Ag	0
+210490	13837	veselje	Nc	7821	zadovoljstvo	Nc	1
+210507	13837	veselje	Nc	27828	škodoželjnost	Nc	0
+213926	661	volja	Nc	4298	razpoloženje	Nc	1
+213928	661	volja	Nc	20485	motivacija	Nc	1
+214672	27772	vrag	Nc	6275	hudič	Nc	1
+214675	27772	vrag	Nc	27781	zlodej	Nc	1
+214676	27772	vrag	Nc	27771	zlomek	Nc	1
+214679	27772	vrag	Nc	27769	hudir	Nc	1
+214885	1486	vrednost	Nc	4850	veljava	Nc	1
+214889	1486	vrednost	Nc	1591	pomembnost	Nc	1
+215050	9529	vreči	Vm	67950	zalučati	Vm	1
+215204	3260	vrhunec	Nc	3259	višek	Nc	1
+215968	33893	vsakdo	Pg	65042	slehernik	Nc	1
+216892	28342	vzdrževati	Vm	52135	preživljati	Vm	1
+216893	28342	vzdrževati	Vm	9366	ohranjati	Vm	1
+217341	31508	vznemiriti	Vm	31507	razburiti	Vm	1
+217347	31508	vznemiriti	Vm	17157	razdražiti	Vm	1
+217351	31508	vznemiriti	Vm	31506	iztiriti	Vm	1
+218528	5948	zabit	Ap	10050	trdoglav	NOT FOUND OR AMBIGUOUS	1
+218530	5948	zabit	Ap	10980	tumpast	Ag	1
+219109	16951	zadnji	Ag	36364	poslednji	Ag	1
+220132	50770	zagorel	Ap	50771	porjavel	Ap	1
+220134	50770	zagorel	Ap	50769	ogorel	Ap	1
+220135	50770	zagorel	Ap	26133	črn	Ag	1
+220136	50770	zagorel	Ap	56753	potemnel	Ap	1
+220482	44803	zagrešiti	Vm	66383	zakriviti	Vm	1
+224034	11331	zapeljivec	Nc	11329	casanova	NOT FOUND OR AMBIGUOUS	1
+224699	13976	zaposlovalec	Nc	13974	delodajalec	Nc	1
+224801	30256	zapraviti	Vm	1532	pognati	Vm	1
+224807	30256	zapraviti	Vm	55414	zafrčkati	NOT FOUND OR AMBIGUOUS	1
+224809	30256	zapraviti	Vm	5803	pokvariti	Vm	1
+224810	30256	zapraviti	Vm	55778	zavoziti	Vm	1
+224812	30256	zapraviti	Vm	70523	zafurati	Vm	1
+224814	30256	zapraviti	Vm	12866	zabiti	Vm	1
+226344	32089	zastava	Nc	58029	prapor	Nc	1
+228121	55778	zavoziti	Vm	34032	zamočiti	Vm	1
+228122	55778	zavoziti	Vm	70523	zafurati	Vm	1
+228543	48694	zaznamovati	Vm	21609	ožigosati	Vm	1
+228544	48694	zaznamovati	Vm	48693	obeležiti	Vm	1
+228549	48694	zaznamovati	Vm	7327	predstavljati	Vm	1
+228736	28872	začeti	Vm	60823	pričeti	Vm	1
+229832	12778	zdaj	Rg	12779	trenutno	Rg	1
+229833	12778	zdaj	Rg	46705	sedaj	Rg	1
+229837	12778	zdaj	Rg	12766	danes	NOT FOUND OR AMBIGUOUS	0
+229857	12390	zdelan	Ap	12393	zbit	Ap	1
+229859	12390	zdelan	Ap	12391	izmučen	Ap	1
+229861	12390	zdelan	Ap	12389	crknjen	Ap	1
+229864	12390	zdelan	Ap	64285	sesut	Ap	1
+229866	12390	zdelan	Ap	18058	dotrajan	Ap	1
+229868	12390	zdelan	Ap	30695	zmatran	Ap	1
+229871	12390	zdelan	Ap	30694	zgaran	Ap	1
+230478	7901	zelen	Ag	42154	neizkušen	Ag	1
+230486	7901	zelen	Ag	19872	ekološki	Ag	1
+230489	7901	zelen	Ag	71392	zelnat	Ag	0
+230490	7901	zelen	Ag	8628	zeleneč	Ap	0
+230492	7901	zelen	Ag	45961	nedozorel	Ag	1
+230587	7790	zelo	Rg	5154	strašno	Rg	1
+230588	7790	zelo	Rg	374	izredno	Rg	1
+230590	7790	zelo	Rg	7788	nadvse	Rg	1
+230591	7790	zelo	Rg	7789	neznansko	Rg	1
+230594	7790	zelo	Rg	7287	izrazito	Rg	1
+230614	7790	zelo	Rg	24693	strahotno	Rg	1
+230622	7790	zelo	Rg	9108	presneto	Rg	1
+230623	7790	zelo	Rg	27775	hudičevo	NOT FOUND OR AMBIGUOUS	1
+230624	7790	zelo	Rg	27776	prekleto	Rg	1
+230625	7790	zelo	Rg	8954	sila	NOT FOUND OR AMBIGUOUS	1
+230627	7790	zelo	Rg	9954	neskončno	Rg	1
+230629	7790	zelo	Rg	43757	svinjsko	NOT FOUND OR AMBIGUOUS	1
+230656	7790	zelo	Rg	17966	krepko	Rg	1
+230675	7742	zemlja	Nc	7743	prst	Nc	1
+230680	7742	zemlja	Nc	7814	svet	NOT FOUND OR AMBIGUOUS	1
+230681	7742	zemlja	Nc	66745	Zemlja	Np	1
+230686	7742	zemlja	Nc	17426	posest	Nc	1
+231407	25614	zidati	Vm	25613	graditi	Vm	1
+232638	9746	zmeden	Ap	9815	zbegan	Ap	1
+232646	9746	zmeden	Ap	47057	nezbran	Ag	1
+232647	9746	zmeden	Ap	14903	kaotičen	Ag	1
+232649	9746	zmeden	Ap	14906	nesistematičen	Ag	1
+232650	9746	zmeden	Ap	14905	neorganiziran	Ag	1
+232975	6063	zmešan	Ap	7745	blazen	Ag	1
+235612	4998	čarovnica	Nc	4954	coprnica	Nc	1
+235633	12343	čarovnik	Nc	12345	čarodej	Nc	1
+236077	14389	čemeren	Ag	9885	mrk	NOT FOUND OR AMBIGUOUS	1
+236078	14389	čemeren	Ag	14384	zamorjen	Ap	1
+236082	14389	čemeren	Ag	405	kisel	Ag	1
+236083	14389	čemeren	Ag	27762	nejevoljen	Ag	1
+236248	2222	čeprav	Cs	12619	četudi	Cs	1
+236883	7364	človek	Nc	11478	oseba	Nc	1
+236884	7364	človek	Nc	5571	tip	Nc	1
+236885	7364	človek	Nc	71421	zemljan	Nc	1
+237107	26133	črn	Ag	50770	zagorel	Ap	1
+237110	26133	črn	Ag	71388	zlokoben	NOT FOUND OR AMBIGUOUS	1
+237112	26133	črn	Ag	67207	črnski	Ag	1
+237113	26133	črn	Ag	63099	temnopolt	Ag	1
+237565	5125	čudovit	Ag	23986	kolosalen	Ag	1
+238091	11072	šala	Nc	22904	hec	Nc	1
+238092	11072	šala	Nc	22619	štos	Nc	1
+238228	10534	šariti	Vm	6673	brskati	Vm	1
+238229	10534	šariti	Vm	10533	brkljati	Vm	1
+238532	26571	šesterokotnik	Nc	26570	heksagon	NOT FOUND OR AMBIGUOUS	0
+239830	4060	špartanka	NOT FOUND OR AMBIGUOUS	4054	asket	Nc	0
+239831	4060	špartanka	NOT FOUND OR AMBIGUOUS	4061	asketka	NOT FOUND OR AMBIGUOUS	1
+239832	4060	špartanka	NOT FOUND OR AMBIGUOUS	4056	špartanec	NOT FOUND OR AMBIGUOUS	0
+241229	6096	žalosten	Ag	3051	potrt	Ap	1
+241240	6096	žalosten	Ag	49421	tožen	NOT FOUND OR AMBIGUOUS	1
+241615	27535	želeti	Vm	27536	nameravati	Vm	1
+241723	25253	žena	Nc	14927	mož	Nc	0
+241744	12734	ženska	Nc	25259	gospica	Nc	0
+241746	12734	ženska	Nc	9204	gospa	Nc	1
+241747	12734	ženska	Nc	13570	deklica	Nc	1
+241749	12734	ženska	Nc	34950	kura	Nc	0
+241751	12734	ženska	Nc	34951	samica	Nc	0
+242454	25955	živcirati	Vm	25954	nervirati	Vm	1
+255091	7977	delati	Vm	7975	pretvarjati	Vm	1
+286845	54078	napiti	Vm	54077	nacediti	Vm	1
+309907	51746	posmehovati	Vm	18378	rogati	Vm	1
+315976	18789	premakniti	Vm	97598	prestaviti	Vm	1
+316493	77868	prepirati	Vm	77866	pričkati	Vm	1
+316494	77868	prepirati	Vm	12982	prerekati	Vm	1
+316495	77868	prepirati	Vm	86337	kregati	Vm	1
+317081	54789	prestrašiti	Vm	97742	preplašiti	Vm	1
+330633	30155	skrčiti	Vm	100511	uskočiti	NOT FOUND OR AMBIGUOUS	1
+333866	29917	spomniti	Vm	29916	domisliti	Vm	1
+347966	33256	vdati	Vm	33257	predati	Vm	1
+361745	89189	zgrniti	Vm	60667	zbrati	Vm	1
+361746	89189	zgrniti	Vm	44722	nabrati	Vm	1
+361747	89189	zgrniti	Vm	89342	nagnesti	Vm	1
+362826	30026	znebiti	Vm	30260	otresti	Vm	1
+362829	30026	znebiti	Vm	39235	rešiti	Vm	1
+362838	30026	znebiti	Vm	50596	odkrižati	Vm	1
+368126	3299	približek	Nc	3298	aproksimacija	Nc	1
+368195	7901	zelen	Ag	130977	kjpnpo	NOT FOUND OR AMBIGUOUS	0
+368196	7901	zelen	Ag	130978	marička	NOT FOUND OR AMBIGUOUS	0
+368197	7901	zelen	Ag	65128	smaragden	Ag	1
+368200	3299	približek	Nc	130979	zaokrožek	NOT FOUND OR AMBIGUOUS	1
+368224	7901	zelen	Ag	46341	neuk	Ag	1
+368225	7901	zelen	Ag	2042	nevešč	Ag	1
+368232	10457	odlično	Rg	130987	bolano	NOT FOUND OR AMBIGUOUS	1
+368235	17504	ideja	Nc	8088	preblisk	Nc	1
+368252	7410	hiša	Nc	5178	bajta	Nc	1
+368269	28013	luč	Nc	7995	svetloba	Nc	1
+368294	60272	smotrno	Rg	16490	premišljeno	NOT FOUND OR AMBIGUOUS	1
+368296	36253	transformacija	Nc	39065	sprememba	Nc	1
+368301	60272	smotrno	Rg	7188	preudarno	Rg	1
+368307	57866	spati	Vm	131008	drnjohati	Vm	1
+368313	6254	bel	Ag	109866	belogardističen	Ag	1
+368314	10214	pozitiven	Ag	16277	dober	Ag	1
+368315	60272	smotrno	Rg	106006	smiselno	Rg	1
+368329	7410	hiša	Nc	17384	domačija	Nc	1
+368332	426	adaptabilen	NOT FOUND OR AMBIGUOUS	60321	priredljiv	NOT FOUND OR AMBIGUOUS	1
+368337	60272	smotrno	Rg	7183	pametno	Rg	1
+368339	57866	spati	Vm	131017	pančkati	Vm	1
+368340	57866	spati	Vm	131018	ninati	NOT FOUND OR AMBIGUOUS	1
+368341	57866	spati	Vm	131019	ninčkati	NOT FOUND OR AMBIGUOUS	1
+368342	5207	pijan	Ag	131020	fajhtn	NOT FOUND OR AMBIGUOUS	1
+368345	60272	smotrno	Rg	27514	načrtno	Rg	1
+368354	43083	multinacionalka	Nc	131025	mnogonarodnica	NOT FOUND OR AMBIGUOUS	0
+368382	17504	ideja	Nc	68868	utrinek	Nc	1
+368394	25052	pojesti	Vm	36336	použiti	Vm	1
+368395	25052	pojesti	Vm	123974	snesti	Vm	1
+368397	12404	pes	Nc	27549	kuža	Nc	1
+368408	23353	seks	Nc	39504	ljubljenje	Nc	1
+368478	64590	sopomenka	Nc	131074	sočutnica	NOT FOUND OR AMBIGUOUS	0
+368534	17504	ideja	Nc	17497	domislek	Nc	1
+368552	29141	komunikacija	Nc	131103	sporoanje	NOT FOUND OR AMBIGUOUS	0
+368566	57866	spati	Vm	123296	ajati	Vm	1
+368568	17504	ideja	Nc	8095	fleš	Nc	1
+368598	7901	zelen	Ag	19589	žaba	Nc	0
+368617	33192	malo	Rg	53890	prgišče	Nc	1
+368637	7410	hiša	Nc	7409	rezidenca	Nc	1
+368666	12778	zdaj	Rg	106012	tokrat	Rg	1
+368667	12778	zdaj	Rg	10900	takoj	Rg	1
+368800	12778	zdaj	Rg	10899	nemudoma	Rg	1
+368805	12778	zdaj	Rg	114459	zdajci	Rg	1
+368919	25565	lakomnost	Nc	38599	poželjivost	Nc	0
+368952	10901	hitro	Rg	128181	rapidno	Rg	1
+369022	24123	glasba	Nc	106158	muzika	Nc	1
+369071	7901	zelen	Ag	46315	neizurjen	Ag	1
+369192	57866	spati	Vm	18455	dremati	Vm	1
+369213	350	neumen	Ag	19968	prismuknjen	Ag	1
+369239	4973	babica	Nc	131343	oma	NOT FOUND OR AMBIGUOUS	1
+369279	4974	dedek	Nc	128231	nono	Nc	1
+369285	57866	spati	Vm	18456	dremuckati	Vm	1
+369323	4973	babica	Nc	48277	nona	Nc	1
+369373	5343	steklenica	Nc	22724	flaša	Nc	1
+369379	13700	knjiga	Nc	131370	bukva	NOT FOUND OR AMBIGUOUS	1
+369459	5343	steklenica	Nc	11199	buteljka	Nc	1
+369467	12381	umreti	Vm	131389	krepati	NOT FOUND OR AMBIGUOUS	1
+369473	7099	biser	Nc	106684	perla	Nc	1
+369536	5207	pijan	Ag	43184	nabasan	Ap	1
+369637	12381	umreti	Vm	131436	guzniti	Vm	1
+369642	5548	prasica	Nc	109999	kuzla	Nc	1
+369658	350	neumen	Ag	6066	topoumen	Ag	1
+369712	17704	trava	Nc	114073	konoplja	Nc	1
+369713	17704	trava	Nc	26511	kanabis	Nc	1
+369720	12404	pes	Nc	110355	kosmatinec	Nc	1
+369810	19595	jacuzzi®	NOT FOUND OR AMBIGUOUS	131493	fačuzi	NOT FOUND OR AMBIGUOUS	1
+369812	19594	džakuzi	NOT FOUND OR AMBIGUOUS	131493	fačuzi	NOT FOUND OR AMBIGUOUS	1
+369857	7410	hiša	Nc	3566	zgradba	Nc	1
+369858	7410	hiša	Nc	5185	koča	Nc	1
+369862	57866	spati	Vm	131513	nočiti	Vm	1
+369910	5207	pijan	Ag	16288	vesel	Ag	1
+369925	4614	avto	Nc	3021	mašina	Nc	1
+370026	7481	trgovina	Nc	110038	štacuna	Nc	1
+370206	11041	debel	Ag	13026	trebušast	Ag	1
+370207	11041	debel	Ag	67900	vampast	Ag	1
+370210	11041	debel	Ag	131695	zašpehan	NOT FOUND OR AMBIGUOUS	1
+370214	11041	debel	Ag	131699	bajsast	NOT FOUND OR AMBIGUOUS	1
+370273	5207	pijan	Ag	106542	alkoholiziran	Ap	1
+370289	35004	omahovati	Vm	12064	cincati	Vm	1
+370290	35004	omahovati	Vm	131746	cagati	NOT FOUND OR AMBIGUOUS	1
+370539	44113	nevihta	Nc	107535	ujma	Nc	1
+370541	44113	nevihta	Nc	124242	vihra	Nc	1
+370562	12769	gizdalin	Nc	131870	fgfg	NOT FOUND OR AMBIGUOUS	0
+370563	12769	gizdalin	Nc	131871	/	NOT FOUND OR AMBIGUOUS	0
+370564	12769	gizdalin	Nc	131872	<>	NOT FOUND OR AMBIGUOUS	0
+370659	8100	hiter	Ag	118243	hlasten	Ag	1
+370808	10214	pozitiven	Ag	2044	slab	Ag	0
+371140	6275	hudič	Nc	53605	zlobec	NOT FOUND OR AMBIGUOUS	1
+371162	25474	spregovoriti	Vm	132164	začivkati	Vm	1
+371193	39113	pograd	Nc	132177	prična	NOT FOUND OR AMBIGUOUS	1
+371206	2937	star	Ag	114670	prileten	Ag	1
+371253	350	neumen	Ag	9817	praznoglav	Ag	1
+371276	26133	črn	Ag	122038	vranji	Ag	1
+371295	44921	natepsti	Vm	43221	namahati	Vm	1
+371308	54078	napiti	Vm	132225	nalokati	NOT FOUND OR AMBIGUOUS	1
+371549	75425	bahati	Vm	132370	dičiti	Vm	1
+371804	37340	pretepsti	Vm	43224	prebunkati	Vm	1
+371805	44921	natepsti	Vm	43229	nabunkati	NOT FOUND OR AMBIGUOUS	1
+371856	57866	spati	Vm	132550	spavati	NOT FOUND OR AMBIGUOUS	1
+371857	57866	spati	Vm	128969	spančkati	Vm	1
+371864	12555	jokati	Vm	132555	vekati	Vm	1
+371890	54078	napiti	Vm	132577	opiti	Vm	1
+371891	54078	napiti	Vm	132578	nažlampati	NOT FOUND OR AMBIGUOUS	1
+371897	12778	zdaj	Rg	58068	zdajle	Rg	1
+371902	10900	takoj	Rg	7275	precej	Rg	1
+371903	10900	takoj	Rg	130217	takojci	Rg	1
+372083	214	popolnoma	Rg	132704	skozinskoz	Rg	1
+372105	12259	jok	Nc	132716	cmizdrenje	NOT FOUND OR AMBIGUOUS	1
+372109	57280	zajokati	Vm	114617	zavekati	Vm	1
+372110	57280	zajokati	Vm	132718	zaplakati	NOT FOUND OR AMBIGUOUS	1
+372191	17901	rezultat	Nc	16809	izkupiček	Nc	1
+372233	53917	petdesetletnik	Nc	115243	abraham	NOT FOUND OR AMBIGUOUS	1
+372255	54789	prestrašiti	Vm	94758	podelati	Vm	1
+372422	6275	hudič	Nc	27817	hudobec	Nc	1
+372495	6275	hudič	Nc	36486	parkelj	Nc	1
+372637	27339	oditi	Vm	65815	spokati	Vm	1
+372852	12381	umreti	Vm	34057	zaspati	Vm	1
+372869	27339	oditi	Vm	133078	odkrevsati	Vm	1
+372988	37340	pretepsti	Vm	22277	premikastiti	Vm	1
+373041	25052	pojesti	Vm	55447	pohrustati	Vm	1
+373042	25052	pojesti	Vm	114315	pozobati	Vm	1
+373043	25052	pojesti	Vm	55650	pomahati	Vm	1
+373051	25052	pojesti	Vm	133181	požuliti	Vm	1
+373067	5207	pijan	Ag	133193	trhlen	NOT FOUND OR AMBIGUOUS	1
+373093	52135	preživljati	Vm	106793	prestajati	Vm	1
+373094	52135	preživljati	Vm	111021	prehranjevati	Vm	1
+373095	52135	preživljati	Vm	133203	živiti	NOT FOUND OR AMBIGUOUS	1
+373096	52135	preživljati	Vm	24864	rediti	Vm	1
+373098	52135	preživljati	Vm	11597	hraniti	Vm	1
+373107	12778	zdaj	Rg	130217	takojci	Rg	1
+373393	11710	očistiti	Vm	133338	osnažiti	Vm	1
+373416	6549	razkačen	Ap	133350	razpištoljen	NOT FOUND OR AMBIGUOUS	1
+373618	350	neumen	Ag	133454	zagaman	NOT FOUND OR AMBIGUOUS	1
+373627	75425	bahati	Vm	133458	veličiti	NOT FOUND OR AMBIGUOUS	1
+374030	10534	šariti	Vm	10687	stikati	Vm	1
+374032	26151	pretiti	Vm	119255	žugati	Vm	1
+374033	26150	groziti	Vm	119255	žugati	Vm	1
+374148	9401	prijatelj	Nc	133720	buraz	NOT FOUND OR AMBIGUOUS	1
+374235	39113	pograd	Nc	133770	postelnjak	NOT FOUND OR AMBIGUOUS	1
+374700	59655	presegati	Vm	58880	prekašati	Vm	1
+375437	6275	hudič	Nc	41756	skušnjava	Nc	1
+375890	10251	očitno	Rg	134561	očividno	Rg	1
+376632	7790	zelo	Rg	20419	ekstremno	Rg	1
+376707	43568	nahruliti	Vm	43802	nažreti	Vm	1
+376708	43569	nazijati	Vm	43802	nažreti	Vm	1
+377042	19839	ekipa	Nc	45175	zasedba	Nc	1
+377108	33192	malo	Rg	18613	ščepec	Nc	1
+377109	33192	malo	Rg	10492	kanec	Nc	1
+377112	33192	malo	Rg	9124	pičlo	Rg	1
+377114	33192	malo	Rg	40389	malček	Nc	1
+377118	33192	malo	Rg	18615	troha	Nc	1
+377120	7790	zelo	Rg	5153	jako	Rg	1
+377146	63243	vlomilec	Nc	135125	vdiralec	Nc	1
+377404	28333	uživati	Vm	36335	konzumirati	Vm	1
+377406	28333	uživati	Vm	32335	jesti	NOT FOUND OR AMBIGUOUS	1
+377407	28333	uživati	Vm	54252	piti	Vm	1
+377605	37340	pretepsti	Vm	135278	pregoslati	NOT FOUND OR AMBIGUOUS	1
+377606	37340	pretepsti	Vm	128544	pregoniti	Vm	1
+377834	7643	sreča	Nc	22985	fortuna	NOT FOUND OR AMBIGUOUS	1
+378089	17704	trava	Nc	135491	gangja	NOT FOUND OR AMBIGUOUS	0
+378092	17704	trava	Nc	135492	munchies	NOT FOUND OR AMBIGUOUS	0
+378093	17704	trava	Nc	128828	sinička	Nc	0
+378094	17704	trava	Nc	135493	jakačibej	NOT FOUND OR AMBIGUOUS	0
+378487	48695	proslaviti	Vm	51242	poveličati	Vm	1
+378491	48695	proslaviti	Vm	44526	nazdraviti	Vm	1
+378831	66291	stigma	Nc	116538	zaznamovanost	Nc	1
+378832	66291	stigma	Nc	135807	ožigosanost	Nc	1
+378892	1025	strniti	Vm	16345	skleniti	Vm	1
+379439	3465	dobiti	Vm	49136	požeti	Vm	1
+379482	6275	hudič	Nc	23220	hudiman	NOT FOUND OR AMBIGUOUS	1
+379483	6275	hudič	Nc	27769	hudir	Nc	1
+379484	6275	hudič	Nc	27768	hudik	NOT FOUND OR AMBIGUOUS	1
+379485	6275	hudič	Nc	136125	hudnik	NOT FOUND OR AMBIGUOUS	1
+379681	75425	bahati	Vm	136234	koračiti	Vm	1
+379942	6275	hudič	Nc	136345	šejtan	NOT FOUND OR AMBIGUOUS	1
+380063	27721	hruljenje	Nc	136372	hrulba	NOT FOUND OR AMBIGUOUS	1
+380064	27721	hruljenje	Nc	136373	nadiranje	Nc	1
+380065	27721	hruljenje	Nc	45691	nažiranje	Nc	1
+380066	27721	hruljenje	Nc	25677	oštevanje	Nc	1
+380067	27721	hruljenje	Nc	8352	tuljenje	Nc	1
+380068	27721	hruljenje	Nc	136374	tulba	NOT FOUND OR AMBIGUOUS	1
+380376	17504	ideja	Nc	16918	teza	Nc	1
+380834	31800	izziv	Nc	3074	klic	Nc	0
+380835	31800	izziv	Nc	3073	poziv	Nc	0
+380841	3074	klic	Nc	136715	zov	NOT FOUND OR AMBIGUOUS	1
+381076	8593	bogoskrunstvo	Nc	7681	blasfemija	Nc	1
+381225	54078	napiti	Vm	136898	alkoholizirati	Vm	1
+381460	5207	pijan	Ag	136961	naberglan	NOT FOUND OR AMBIGUOUS	1
+381560	350	neumen	Ag	34685	zarukan	Ag	1
+382525	45110	nastradati	Vm	132205	nadrsati	Vm	1
+382526	45110	nastradati	Vm	132206	nasankati	Vm	1
+382597	33192	malo	Rg	18612	trohica	Nc	1
+382598	33192	malo	Rg	18704	drobtinica	Nc	1
+382599	33192	malo	Rg	18614	mrvica	Nc	1
+382600	33192	malo	Rg	13805	zrno	Nc	1
+382601	33192	malo	Rg	72400	ščep	Nc	1
+382602	33192	malo	Rg	8000	žarek	NOT FOUND OR AMBIGUOUS	1
+382603	33192	malo	Rg	19116	senca	Nc	1
+382605	33192	malo	Rg	18617	iskrica	Nc	1
+382606	33192	malo	Rg	33126	peščica	Nc	1
+382929	65115	bati	Vm	137613	plašiti	Vm	1
+382930	65115	bati	Vm	18545	tresti	Vm	1
+383193	7275	precej	Rg	62071	razmeroma	Rg	1
+383836	7643	sreča	Nc	37757	krompir	Nc	1
+384041	3465	dobiti	Vm	108168	fasati	Vm	1
+384265	25052	pojesti	Vm	138159	konsumirati	Vm	1
+384545	12343	čarovnik	Nc	65494	veščec	Nc	0
+385840	26133	črn	Ag	123159	oglen	Ag	1
+385841	26133	črn	Ag	6116	nesrečen	Ag	1
+385842	26133	črn	Ag	23541	tragičen	Ag	1
+386596	46678	nemirnež	Nc	47530	nervoznež	Nc	1
+386604	33192	malo	Rg	117060	majčkeno	Rg	1
+387321	12381	umreti	Vm	139732	gavzniti	NOT FOUND OR AMBIGUOUS	1
+387521	12500	cvetka	Nc	2617	napaka	Nc	1
+387522	12500	cvetka	Nc	13568	dekle	Nc	1
+387523	12500	cvetka	Nc	16708	pripetljaj	Nc	1
+387524	12500	cvetka	Nc	5141	izmišljotina	Nc	1
+387740	4973	babica	Nc	139923	bica	NOT FOUND OR AMBIGUOUS	1
+387760	5563	ničvrednež	Nc	5556	ničprida	Nc	1
+387761	5563	ničvrednež	Nc	11300	capin	Nc	1
+387762	5563	ničvrednež	Nc	47578	nesnaga	Nc	1
+387763	5563	ničvrednež	Nc	40354	nevrednež	NOT FOUND OR AMBIGUOUS	1
+387764	5563	ničvrednež	Nc	139925	nevrednik	NOT FOUND OR AMBIGUOUS	1
+387765	5563	ničvrednež	Nc	139926	ničvrednik	NOT FOUND OR AMBIGUOUS	1
+387766	5563	ničvrednež	Nc	5549	podlež	Nc	1
+387767	5563	ničvrednež	Nc	5558	zmene	Nc	1
+387768	5563	ničvrednež	Nc	11941	cigan	Nc	1
+387769	5563	ničvrednež	Nc	24600	ušivec	Nc	1
+387770	5563	ničvrednež	Nc	24599	uš	Nc	1
+387771	5563	ničvrednež	Nc	24596	smet	Nc	1
+388250	6549	razkačen	Ap	140135	razkajfan	NOT FOUND OR AMBIGUOUS	1
+388472	54078	napiti	Vm	140205	zapiti	Vm	1
+388532	10901	hitro	Rg	115256	jadrno	Rg	1
+389308	6522	govoričiti	Vm	5979	trobezljati	Vm	1
+389309	6522	govoričiti	Vm	117827	pleteničiti	Vm	1
+389310	6522	govoričiti	Vm	140542	čveketati	NOT FOUND OR AMBIGUOUS	1
+389311	6522	govoričiti	Vm	23176	frazariti	Vm	1
+389312	6522	govoričiti	Vm	137594	lapati	NOT FOUND OR AMBIGUOUS	1
+389313	6522	govoričiti	Vm	7854	kvasati	NOT FOUND OR AMBIGUOUS	1
+390005	7790	zelo	Rg	27777	salamensko	Rg	1
+390006	7790	zelo	Rg	42421	nazarensko	Rg	1
+390007	7790	zelo	Rg	140692	hudikovo	NOT FOUND OR AMBIGUOUS	1
+390008	7790	zelo	Rg	23224	hudimano	Rg	1
+390009	7790	zelo	Rg	140699	hudimanovo	NOT FOUND OR AMBIGUOUS	1
+390516	33192	malo	Rg	13456	moment	Nc	1
+391020	7901	zelen	Ag	141088	ndbf	NOT FOUND OR AMBIGUOUS	0
+391477	13700	knjiga	Nc	63491	špeh	NOT FOUND OR AMBIGUOUS	1
+391517	56173	pomembno	Rg	7274	bistveno	Rg	1
+391749	7901	zelen	Ag	10716	svež	Ag	0
+391751	7901	zelen	Ag	32392	nevoščljiv	Ag	1
+391754	7901	zelen	Ag	7530	nedolžen	Ag	0
+391755	7901	zelen	Ag	36268	nerazvit	Ag	0
+391756	7901	zelen	Ag	27095	prenagljen	Ap	0
+391975	2937	star	Ag	30530	izkušen	Ag	1
+392719	8458	prihodnost	Nc	109711	krokodil	Nc	0
+392886	33192	malo	Rg	25983	grižljaj	Nc	1
+400196	2937	star	Ag	16895	preverjen	Ap	1
+400276	13569	punca	Nc	144944	model/ka	NOT FOUND OR AMBIGUOUS	1
+405441	64169	senzor	Nc	147164	zaznavalo	NOT FOUND OR AMBIGUOUS	1
